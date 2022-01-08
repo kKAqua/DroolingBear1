@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9708967615087da87B86c32686557dC90a4B878d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x9708967615087da87B86c32686557dC90a4B878d",
+  "NETWORK": {
+    "NAME": "Ethereum Testnet Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Drooling Bear",
+  "SYMBOL": "DBR",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/drooling-bear",
+  "SHOW_BACKGROUND": true
+}
