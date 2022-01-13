@@ -10,7 +10,7 @@
   "SYMBOL": "DBR",
   "MAX_SUPPLY": 6666,
   "WEI_COST": 0,
-  "DISPLAY_COST": "FREE(WL), 0.05(Public)",
+  "DISPLAY_COST": "FREE(Presale) /  0.05(Public)",
   "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/drooling-bear",
