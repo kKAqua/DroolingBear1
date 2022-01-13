@@ -9,7 +9,7 @@
   "NFT_NAME": "Drooling Bear",
   "SYMBOL": "DBR",
   "MAX_SUPPLY": 6666,
-  "WEI_COST": 00000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": "FREE(WL), 0.05(Public)",
   "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
