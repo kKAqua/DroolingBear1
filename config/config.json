@@ -1,18 +1,18 @@
 {
   "CONTRACT_ADDRESS": "0x9708967615087da87B86c32686557dC90a4B878d",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x9708967615087da87B86c32686557dC90a4B878d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc35716f66ac2f427d8eed18650f12c9ed855e3bd",
   "NETWORK": {
     "NAME": "Ethereum Testnet Rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Drooling Bear",
-  "SYMBOL": "DBR",
-  "MAX_SUPPLY": 6666,
-  "WEI_COST": 0,
-  "DISPLAY_COST": "FREE(Presale) /  0.05(Public)",
-  "GAS_LIMIT": 300000,
+  "NFT_NAME": "Taikutsu Saru XX Club",
+  "SYMBOL": "TSxC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": "0.005(Presale) /  0.02(Public)",
+  "GAS_LIMIT": 71466,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/drooling-bear",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/taikutsusaruxxclub",
   "SHOW_BACKGROUND": true
 }
